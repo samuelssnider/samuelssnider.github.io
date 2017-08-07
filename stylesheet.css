@@ -2,7 +2,8 @@
 		background: #4863A0;
 	}
 	#skis-mountain{
-		align: right;
+		float: right;
+		width: 350px;
 	}
 	.white{
 		color: white;
