@@ -1,10 +1,21 @@
 	body{
 		background: #4863A0;
+		color: white
 	}
 	#skis-mountain{
 		float: right;
-		width: 350px;
+		width: 300px;
+		padding-left: 0px;
+		margin-left: 10px
+		border: 3px ridge white;
 	}
 	.white{
 		color: white;
+	}
+	h1{
+		font-family: sans-serif;
+	}
+
+	h3{
+		font-family: cursive;
 	}
